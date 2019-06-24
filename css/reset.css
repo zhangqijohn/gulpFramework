@@ -1,0 +1,38 @@
+/*reset*/
+@charset "utf-8";
+blockquote, body, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, iframe, input, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0
+}
+
+li, ul {
+    list-style: none
+}
+
+a, a:active, a:hover, a:link, a:visited {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+img {
+    border: none
+}
+
+.clear {
+    clear: both;
+    height: 0
+}
+
+.fl {
+    float: left;
+    display: inline-block
+}
+
+.fr {
+    float: right;
+    display: inline-block
+}
+
+i {
+    font-style: normal;
+}

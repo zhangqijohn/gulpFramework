@@ -1,0 +1,43 @@
+.icon {
+                        display: inline-block;
+                        background: url("../img/sprite.png") no-repeat;
+                        width: 266px;
+                        height: 266px;
+                        background-size:266px 266px;
+                    }
+                .i-alarm {
+                            width: 29px;
+                            height: 35px;
+                            background-position:-213px -138px;
+                        }
+                    .i-close-reg {
+                            width: 65px;
+                            height: 65px;
+                            background-position:-138px -138px;
+                        }
+                    .i-error {
+                            width: 128px;
+                            height: 128px;
+                            background-position:0px 0px;
+                        }
+                    .i-question {
+                            width: 21px;
+                            height: 21px;
+                            background-position:-171px -213px;
+                        }
+                    .i-success {
+                            width: 128px;
+                            height: 128px;
+                            background-position:-138px 0px;
+                        }
+                    .i-user {
+                            width: 23px;
+                            height: 24px;
+                            background-position:-138px -213px;
+                        }
+                    .i-warning {
+                            width: 128px;
+                            height: 128px;
+                            background-position:0px -138px;
+                        }
+                    

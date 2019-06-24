@@ -1,0 +1,21 @@
+#app{
+    margin: 0 auto;
+    width: 80%;
+    min-height: 60%;
+    border: 1px solid red;
+    font-size: 16px;
+    color: #0d0d0e;
+}
+h3{
+    text-align: center;
+}
+ul{
+    width: 100%;
+}
+li{
+    height: 30px;
+    line-height: 30px;
+}
+li:nth-of-type(odd){
+    background-color: #dfdfdf;
+}
