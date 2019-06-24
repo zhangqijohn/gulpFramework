@@ -4,17 +4,15 @@ gulp config
 
 ### 安装使用
 ```
-1.安装gulp
-    npm install -g gulp
 
-2.安装项目依赖
+1.安装项目依赖
     npm install
 
-3.启动项目开发环境
-gulp  dev
+2.启动项目开发环境
+    gulp  dev  / npm run dev
 
-4.发布项目生产环境
-gulp build
+3.发布项目生产环境
+    gulp build  / npm run build
 
 ```
 
@@ -27,6 +25,7 @@ gulp build
     4.团队协作
     5.项目维护
     6.基础建设
+
     ```
 
 
