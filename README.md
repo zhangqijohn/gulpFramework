@@ -1,2 +1,2 @@
 # gulpFramework
-gulp
+gulp config
